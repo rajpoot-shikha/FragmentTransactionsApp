@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentTransactionApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_remove_fragments">Adding and Removing fragments</string>
+    <string name="add_replace_fragments">Adding and Replacing fragments</string>
+    <string name="fragment_communication">Fragment Communication</string>
+</resources>
